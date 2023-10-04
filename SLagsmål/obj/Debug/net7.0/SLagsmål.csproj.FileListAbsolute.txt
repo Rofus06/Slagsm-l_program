@@ -1,0 +1,14 @@
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\bin\Debug\net7.0\SLagsmål.exe
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\bin\Debug\net7.0\SLagsmål.deps.json
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\bin\Debug\net7.0\SLagsmål.runtimeconfig.json
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\bin\Debug\net7.0\SLagsmål.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\bin\Debug\net7.0\SLagsmål.pdb
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\SLagsmål.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\SLagsmål.AssemblyInfoInputs.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\SLagsmål.AssemblyInfo.cs
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\SLagsmål.csproj.CoreCompileInputs.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\SLagsmål.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\refint\SLagsmål.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\SLagsmål.pdb
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\SLagsmål.genruntimeconfig.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål_program\SLagsmål\obj\Debug\net7.0\ref\SLagsmål.dll
